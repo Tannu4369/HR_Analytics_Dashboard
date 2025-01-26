@@ -21,6 +21,6 @@ CTRL + N = New
 CTRL + v = Paste
 -----------------------   click on insert- pivot table-ok
 **Import Data**
----------- Click on CSV 7 import data---
+---------- Click on CSV & import data---
 Transform Data
 ........ Start, Data Cleaning & Processing.
