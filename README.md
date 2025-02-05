@@ -1,18 +1,18 @@
 # HR_Analystics_Dashboard
-Power bi Dashbosrd
-**Project obective as HR Analytics**
+Power bi Dashboard
+**Project objective as HR Analytics**
 ----  
-Help an organization to improve employees performance and improve employees retention (reduce attrition) by creating a HR analytics Dashboard.
+Help an organization to improve employee performance and improve employee retention (reduce attrition) by creating an HR analytics Dashboard.
 
  **Dashboard Setup****
  ----
  Scope of project- Ask which is asked as
-                    Output show of the dashboard
+                    Output shows the dashboard
 Example-  Important objectives, Performance.
-All thing shown in story form to use CSV or Other files.
+All things shown in story form should be used in CSV or other files.
 **STEPS OF SUPPORTING KPI STORY WITH THE STEP OF MS EXCEL**
-In CSV file open. But in CSV only one sheet make.
-we cannot make Pivot table because it's not Save.
+In CSV file open. But in CSV only one sheet is made.
+We cannot make a Pivot table because it's not Saved.
 **Process****
 Open your CSV file on which your data have 
 CTRL + A = Select All
